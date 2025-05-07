@@ -1,5 +1,5 @@
-from substitution import caesar, atbash, monoalphabetic
-from transposition import rail_fence, columnar, route
+from Substitution import caesar, atbash, monoalphabetic
+from Transposition import Rail_fence, columnar, route
 
 def get_algorithms():
     print("\nChoose a Substitution Algorithm:")

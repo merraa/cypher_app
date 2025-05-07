@@ -1,5 +1,5 @@
 from menu import get_algorithms
-from utils.verify import verify_output
+from Utils.verify import verify_output
 
 def main():
     print("\n==== Cipher Application ====")
